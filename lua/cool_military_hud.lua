@@ -2,17 +2,17 @@
  * This file is part of the JIEO931 distribution(https://github.com/JIEO931/Cool-Military-RP-Hud-GMOD-lua/blob/master/lua/cool_military_hud.lua).
  * Copyright (c) 2015 eLeCtrOssSnake.
  * 
- * This code is free: you can redistribute it and/or modify  
+ * This program is free software: you can redistribute it and/or modify  
  * it under the terms of the GNU General Public License as published by  
  * the Free Software Foundation, version 3.
  *
- * This code is distributed in the hope that it will be useful, but 
+ * This program is distributed in the hope that it will be useful, but 
  * WITHOUT ANY WARRANTY; without even the implied warranty of 
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU 
  * General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License 
- * along with this code. If not, see <http://www.gnu.org/licenses/>.
+ * along with this program. If not, see <http://www.gnu.org/licenses/>.
 --]]
 surface.CreateFont( "MoneyFont3", {
     font = "Arial", -- Use the font-name which is shown to you by your operating system Font Viewer, not the file name
