@@ -15,7 +15,7 @@
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
 --]]
 surface.CreateFont( "MoneyFont3", {
-    font = "Arial", -- Use the font-name which is shown to you by your operating system Font Viewer, not the file name
+    font = "Arial",
     extended = true,
     size = 20,
     weight = 500,
@@ -33,7 +33,7 @@ surface.CreateFont( "MoneyFont3", {
 } )
 
 surface.CreateFont( "Buba", {
-    font = "Arial", -- Use the font-name which is shown to you by your operating system Font Viewer, not the file name
+    font = "Arial",
     extended = true,
     size = 20,
     weight = 500,
@@ -51,7 +51,7 @@ surface.CreateFont( "Buba", {
 } )
 
 surface.CreateFont( "Trava", {
-    font = "Arial", -- Use the font-name which is shown to you by your operating system Font Viewer, not the file name
+    font = "Arial",
     extended = true,
     size = 30,
     weight = 500,
@@ -69,7 +69,7 @@ surface.CreateFont( "Trava", {
 } )
 
 surface.CreateFont( "Profa", {
-    font = "Arial", -- Use the font-name which is shown to you by your operating system Font Viewer, not the file name
+    font = "Arial",
     extended = true,
     size = 25,
     weight = 500,
