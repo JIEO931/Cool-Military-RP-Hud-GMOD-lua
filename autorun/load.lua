@@ -1,5 +1,5 @@
 --[[ 
- * This file is part of the JIEO931 distribution.
+ * This file is part of the JIEO931 distribution(https://github.com/JIEO931/Cool-Military-RP-Hud-GMOD-lua).
  * Copyright (c) 2015 eLeCtrOssSnake.
  * 
  * This code is free: you can redistribute it and/or modify  
